@@ -1,3 +1,5 @@
 [user]
 	name = Can Kahraman
 	email = brkcnkhrmn@gmail.com
+[push]
+	autoSetupRemote = true
